@@ -1,0 +1,25 @@
+Roberta:
+F1 Score (Validation Set): 0.9683, Precision: 0.9687, Recall: 0.9682
+F1 Score (Test Set): 0.7189, Precision: 0.7250, Recall: 0.7170
+
+
+RNN 25:
+F1 Score (Validation Set): 0.6518, Precision: 0.6550, Recall: 0.6532
+F1 Score (Train Set): 0.6036, Precision: 0.6085, Recall: 0.6043
+MLP 25:
+F1 Score (Validation Set): 0.6320, Precision: 0.6308, Recall: 0.6376
+F1 Score (Train Set): 0.6261, Precision: 0.6261, Recall: 0.6291
+
+MLP 200:
+F1 Score (Validation Set): 0.6418, Precision: 0.6413, Recall: 0.6454
+F1 Score (Train Set): 0.6149, Precision: 0.6146, Recall: 0.6159
+RNN 200:
+F1 Score (Validation Set): 0.6151, Precision: 0.6216, Recall: 0.6221
+F1 Score (Train Set): 0.5492, Precision: 0.5504, Recall: 0.5546
+
+MLP 300:
+F1 Score (Validation Set): 0.6173, Precision: 0.6221, Recall: 0.6143
+F1 Score (Train Set): 0.5982, Precision: 0.6033, Recall: 0.5960
+RNN 300:
+F1 Score (Validation Set): 0.3934, Precision: 0.5178, Recall: 0.4992
+F1 Score (Train Set): 0.3601, Precision: 0.3659, Recall: 0.4735
