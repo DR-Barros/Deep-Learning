@@ -1,3 +1,7 @@
 /venv
 /Flicker_data
 *.tsv
+/T4/twitter2015_images
+/T4/twitter2017_images
+# Ignore all .pt files
+*.pt 
