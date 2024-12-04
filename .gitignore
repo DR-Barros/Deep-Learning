@@ -3,5 +3,10 @@
 *.tsv
 /T4/twitter2015_images
 /T4/twitter2017_images
+/T5/results
+/T5/results_bitsandbytes
+/T5/twitter2015_images
+/T5/twitter2017_images
 # Ignore all .pt files
 *.pt 
+.ipynb_checkpoints
